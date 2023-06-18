@@ -1,0 +1,12 @@
+App module
+====
+
+.. toctree::
+   :maxdepth: 4
+
+
+.. module:: app
+   :synopsis: This is Account module
+
+.. automodule:: app.models
+   :members: App
